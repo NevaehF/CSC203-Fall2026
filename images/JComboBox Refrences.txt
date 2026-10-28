@@ -1,0 +1,10 @@
+My References on Learning how to create a dropdown menu: 
+
+(Mainly this link) 
+1. https://www.javaspring.net/blog/java-jcombobox/
+
+2. https://www.youtube.com/watch?v=aTOkk2z8MiU
+
+3. https://www.geeksforgeeks.org/java/java-swing-jcombobox-examples/
+
+4. https://docs.oracle.com/javase/8/docs/api/javax/swing/JComboBox.html
